@@ -30,9 +30,7 @@ This extension adds a new button on each photo which allows us to download the p
 - Make a PR explaining the changes you have done.
 - I'll be a good project maintainer and review and merge as soon as possible.
 
-## Issues?
 
-Report [Here](https://github.com/anamritraj/google-photos-plus/issues/new). Or hit me up on Twitter [@anamritraj](https://twitter.com/anamritraj).
 
 ## Disclaimer
 
