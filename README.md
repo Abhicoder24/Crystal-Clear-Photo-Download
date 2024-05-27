@@ -22,23 +22,4 @@ This extension adds a new button on each photo which allows us to download the p
 - An icon <img src="logo.png" width="20"/> should appear on top right section of the browser.
 - Open https://photos.google.com
 
-## How to contribute?
 
-- Fork this repository
-- Check out the [issues](https://github.com/anamritraj/google-photos-plus/issues) for any ideas to work on. 
-- Make changes. The code is fairly simple and commented wherever necessary. If you need help, hit me up on twitter [@anamritraj](https://twitter.com/anamritraj).
-- Make a PR explaining the changes you have done.
-- I'll be a good project maintainer and review and merge as soon as possible.
-
-
-
-## Disclaimer
-
-I do not own Google photos, Google nor do I claim to own anything. I am in no way associated with Google Photos, Google or any other Google products.
-I do not own the logo used for this project. They are respective trademarks and properties of their owners.
-
-## Meta
-
-Anand – [@anamritraj](https://twitter.com/anamritraj) | [https://anandamritraj.in](anandamritraj.in) 
-
-Distributed under the MIT license. See ``LICENSE`` for more information.
